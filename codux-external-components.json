@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Material UI",
+    "components": [
+      {
+        "filePath": "@mui/material/Button",
+        "exportName": "default",
+        "name": "Button"
+      }
+    ]
+  }
+]
